@@ -2,6 +2,8 @@
 
 Welcome to **Squid Game: Red Light, Green Light**! This is a web-based game inspired by the popular series, developed using JavaScript, HTML, and CSS.
 
+[Live Demo](https://squid-game-green-red-light.netlify.app/)
+
 ![Squid Game](https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQUK-msNOOVSUqOFVOH2slAMQZgROFXuXremlvGGPV4tNOnlaKXyOZVxyvUFdbQRCAYuko75qHqlmiX6t3t7SVLGxUNrKBARoJNjVmqjRtaO8aFugdCixuwK_zlqV_FKgGw_QeS5w6rY68OSNf8wqaXQo.jpg?r=0b7)
 
 ## Table of Contents
